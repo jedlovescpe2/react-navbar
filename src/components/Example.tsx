@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import { links, social } from "../data";
+import { links } from "../data";
 import logo from "../logo.svg";
 import { FaBars } from "react-icons/fa";
 
